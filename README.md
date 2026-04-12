@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Afwaan 👋</h1>
+<h3 align="center">Final Year CS Undergrad • AI/ML Engineer • Building with LLMs</h3>
 
-<!--
-**afwaansarfaraz/afwaansarfaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/afwaan-sarfaraz-4386022a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:afwaansarfaraz7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/afwaan_00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎓 Final year **B.Tech CS** student
+- 🤖 Building real-world AI/ML tools — automation, LLM pipelines, business solutions
+- 🔧 Working with **Claude, OpenAI APIs, LangChain, LlamaIndex**
+- ⚡ I automate the boring stuff so humans don't have to
+- 📍 Based in India
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afwaansarfaraz&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🚀 What I'm Working On
+
+- 🔍 AI-powered business automation tools
+- 🤝 LLM integrations for real-world workflows
+- 📦 Open sourcing my projects soon...
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afwaansarfaraz&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
