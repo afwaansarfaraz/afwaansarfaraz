@@ -12,74 +12,56 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/afwaan-sarfaraz-4386022a3"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:afwaansarfaraz7@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/afwaan_00"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/afwaan-sarfaraz-4386022a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:afwaansarfaraz7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/afwaan_00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <br>
 
 ## About
 
-I build AI systems that solve real problems — real-time voice pipelines, medical image diagnostics, and AI-driven business tools — rather than models that stop at a notebook. Currently co-founding **Torpedo Web**, shipping AI and web products for the hospitality industry, and looking for an AI/ML engineering role where I can keep doing exactly that.
+I build AI systems that solve real problems — real-time voice pipelines, medical imaging diagnostics, and AI-driven business tools — rather than models that stop at a notebook. Currently co-founding **Torpedo Web**, shipping AI and web products for the hospitality industry, and looking for an AI/ML engineering role where I can keep doing exactly that.
 
 <br>
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,react,ts,postgres,docker,git&theme=dark" />
-</p>
+**Languages & Core**
+<br>
+<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi&theme=dark" />
 
-<sub>**AI/LLM:** OpenAI · Claude · LangChain · LlamaIndex · Deepgram · Groq</sub>
+**AI / ML**
+<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git&theme=dark" />
 
 <br>
 
 ## Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> ### [Voice Coach AI](https://github.com/afwaansarfaraz/voice-coach-ai)
+> Real-time AI English communication coach — full duplex STT → LLM → TTS pipeline over WebSockets.
+> ![FastAPI](https://img.shields.io/badge/-FastAPI-05998b?style=flat-square) ![Deepgram](https://img.shields.io/badge/-Deepgram-13EF93?style=flat-square&logoColor=black) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
 
-**[Voice Coach AI](https://github.com/afwaansarfaraz/voice-coach-ai)**
-Real-time AI English communication coach — full duplex STT → LLM → TTS pipeline over WebSockets.
-`FastAPI` `Deepgram` `Groq` `Edge-TTS`
+> ### Medical Image Disease Detection
+> Chest X-ray disease classifier with Grad-CAM explainability, benchmarked across ResNet50, DenseNet121, and EfficientNet-B0.
+> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=black)
 
-</td>
-<td width="50%" valign="top">
+> ### ZestOS
+> Restaurant POS platform for the India market — WhatsApp AI ordering agent, QR self-order, and loyalty system built in.
+> ![Full-Stack](https://img.shields.io/badge/-Full--Stack-6366F1?style=flat-square) ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6366F1?style=flat-square)
 
-**Medical Image Disease Detection**
-Chest X-ray disease classifier with Grad-CAM explainability, benchmarked across ResNet50, DenseNet121, and EfficientNet-B0.
-`PyTorch` `OpenCV` `FastAPI` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**ZestOS**
-Restaurant POS platform for the India market — WhatsApp AI ordering agent, QR self-order, and loyalty system built in.
-`Full-Stack` `AI Agents`
-
-</td>
-<td width="50%" valign="top">
-
-**[SMS Spam Detection](https://github.com/afwaansarfaraz/sms-spam-detection)**
-NLP-based spam classifier trained on message-level text features.
-`Scikit-learn` `NLP`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Activity
-
-<div align="center">
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&hide_border=true&theme=github_dark&bg_color=0A0A0A&title_color=64748B&icon_color=64748B&text_color=E2E8F0" />
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=afwaansarfaraz&hide_border=true&theme=github-dark-blue&background=0A0A0A&stroke=0A0A0A&ring=64748B&fire=64748B&currStreakLabel=E2E8F0" />
-</div>
+> ### [SMS Spam Detection](https://github.com/afwaansarfaraz/sms-spam-detection)
+> NLP-based spam classifier trained on message-level text features.
+> ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square) ![NLP](https://img.shields.io/badge/-NLP-6366F1?style=flat-square)
 
 <br>
 
