@@ -1,114 +1,166 @@
-<div align="center">
+# 👋 Hey, I'm Afwaan
 
-# ⚡ AFWAAN SARFARAZ
-### `AI/ML Engineer` × `Full-Stack Dev` × `Final Year CS`
+### `AI/ML Engineer in the making` · `LLM Builder` · `Automation Enthusiast`
 
-```
-whoami   → building AI systems that ship, not just notebooks
-location → Lucknow, India
-status   → open to AI/ML internships & collabs
-```
+<p align="center">
+  <a href="https://linkedin.com/in/afwaan-sarfaraz-4386022a3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:afwaansarfaraz7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/afwaan_00">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afwaan-sarfaraz-4386022a3)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afwaansarfaraz7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afwaan_00)
-
-</div>
-
----
-
-### 🧬 `> about --verbose`
-
-```yaml
-role: AI/ML + Full-Stack Developer
-focus: LLM pipelines, real-time systems, business automation
-principle: automate the boring, ship the useful
-current: co-founder @ Torpedo Web (hospitality-focused web agency)
-```
-
----
-
-### 🛠️ `> stack --list`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afwaansarfaraz&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-### 🚀 `> ls ./projects`
+## 🧠 `whoami`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```python
+class AfwaanSarfaraz:
 
-**🩻 Medical Image Disease Detection**
-Deep learning system for chest X-ray disease detection with Grad-CAM explainability. Benchmarks ResNet50 / DenseNet121 / EfficientNet-B0, serves best model via FastAPI + React.
+    role = "Final Year B.Tech CSE Student"
+    focus = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLM Applications",
+        "AI Automation"
+    ]
 
-`PyTorch` `OpenCV` `FastAPI` `React` `Docker`
+    currently_building = "AI-powered tools for real-world problems"
 
-</td>
-<td width="50%" valign="top">
-
-**🎙️ Voice Coach AI**
-Real-time AI English communication coach — low-latency speech pipeline with STT → LLM → TTS over WebSockets.
-
-`FastAPI` `Deepgram Nova-2` `Groq` `Edge-TTS`
-[→ repo](https://github.com/afwaansarfaraz/voice-coach-ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🍽️ ZestOS**
-Restaurant POS built for the India/Lucknow market, competing with Petpooja. 9 core modules + WhatsApp AI agent, QR ordering, QR feedback, loyalty system.
-
-`Full-Stack` `AI Agents` `POS Systems`
-
-</td>
-<td width="50%" valign="top">
-
-**🥢 Kaiseki**
-Immersive restaurant site with cinematic scroll-driven motion design.
-
-`Three.js` `GSAP`
-[→ live](https://zenith-dining.vercel.app)
-
-</td>
-</tr>
-</table>
+    philosophy = """
+    Don't just learn AI.
+    Build with it.
+    Ship it.
+    """
+```
 
 ---
 
-### 📡 `> stats --github`
+## ⚡ What I Do
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=afwaansarfaraz&theme=tokyonight&hide_border=true"/>
-</div>
+* 🤖 Build **AI/ML applications** for real-world use cases
+* 🧠 Experiment with **LLMs, RAG pipelines, AI agents and automation**
+* 🔗 Integrate AI models into practical products and workflows
+* 🛠️ Turn ideas into working software
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afwaansarfaraz&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+> **Currently focused on building useful AI systems — not just training models in notebooks.**
 
 ---
 
-<div align="center">
+## 🛠 Tech Arsenal
 
-### `> connect()`
+### Languages & Core
 
-*Building AI systems, one shipped project at a time.*
-📫 **afwaansarfaraz7@gmail.com**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+</p>
 
-</div>
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+### LLM & AI Engineering
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B4EFF?style=for-the-badge" />
+</p>
+
+### Backend & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,mongodb,docker,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### 🗣️ Real-Time AI English Communication Coach
+
+> A real-time AI system designed to help users improve their English communication through speech-based interaction.
+
+**Built with:**
+
+`FastAPI` · `WebSockets` · `Deepgram` · `Whisper` · `LLMs`
+
+---
+
+### 🏨 Hospitality Management System
+
+> Building a production-focused hospitality ecosystem with operational workflows, dashboards, billing and role-based access.
+
+**Focus:**
+
+`Full Stack Development` · `Automation` · `RBAC` · `Real-Time Systems`
+
+---
+
+### 🧠 AI-Powered Business Automation
+
+> Exploring systems that connect LLMs, APIs and workflows to automate repetitive business processes.
+
+**Exploring:**
+
+`n8n` · `LLMs` · `APIs` · `RAG` · `Automation`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=afwaansarfaraz&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afwaansarfaraz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Current Focus
+
+```text
+AI Engineering          ████████████████████░
+LLM Applications        ██████████████████░░░
+Machine Learning        ████████████████░░░░░
+Backend Systems         █████████████████░░░
+AI Automation           ██████████████████░░
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in collaborating on:
+
+* 🤖 AI / LLM applications
+* 🧠 Machine Learning projects
+* ⚙️ AI automation systems
+* 🚀 Interesting products solving real problems
+
+<p align="center">
+
+### `Build. Experiment. Ship. Repeat.` ⚡
+
+</p>
