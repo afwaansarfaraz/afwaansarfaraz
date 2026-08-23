@@ -1,45 +1,90 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E1B4B&height=200&section=header&text=Afwaan%20Sarfaraz&fontSize=44&fontColor=E2E8F0&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=94A3B8" />
-
-`Final Year CSE` · `AI/ML Engineer` · `Building with LLMs`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/afwaan-sarfaraz-4386022a3)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:afwaansarfaraz7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/afwaan_00)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0A0A0A&height=3" />
 </div>
 
 <br>
 
-### About Me
-- 🎓 Final year **B.Tech CS** student
-- 🤖 Building real-world AI/ML tools — automation, LLM pipelines, business solutions
-- 🔧 Working with **Claude, OpenAI APIs, LangChain, LlamaIndex**
-- ⚡ I automate the boring stuff so humans don't have to
-- 📍 Based in India
+<h1 align="center">Afwaan Sarfaraz</h1>
+<p align="center">AI/ML Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Final Year CSE</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=64748B&center=true&vCenter=true&width=560&lines=Building+AI+systems+that+ship%2C+not+notebooks." />
+</p>
 
-### Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,react,ts,postgres,docker,git&theme=dark" />
+<p align="center">
+  <a href="https://linkedin.com/in/afwaan-sarfaraz-4386022a3"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:afwaansarfaraz7@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/afwaan_00"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <br>
 
-### What I'm Working On
-| Project | Description | Stack |
-|---|---|---|
-| **[voice-coach-ai](https://github.com/afwaansarfaraz/voice-coach-ai)** | Real-time AI English coach — live STT → LLM → TTS | `FastAPI` `Deepgram` `Groq` |
-| **Medical Image Disease Detection** | Chest X-ray classifier w/ Grad-CAM explainability | `PyTorch` `OpenCV` `React` |
-| **ZestOS** | Restaurant POS for the India market with an AI agent | `Full-Stack` `AI Agents` |
-| **[sms-spam-detection](https://github.com/afwaansarfaraz/sms-spam-detection)** | NLP spam classifier | `Scikit-learn` |
+## About
+
+I build AI systems that solve real problems — real-time voice pipelines, medical image diagnostics, and AI-driven business tools — rather than models that stop at a notebook. Currently co-founding **Torpedo Web**, shipping AI and web products for the hospitality industry, and looking for an AI/ML engineering role where I can keep doing exactly that.
 
 <br>
 
-### GitHub Stats
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,react,ts,postgres,docker,git&theme=dark" />
+</p>
+
+<sub>**AI/LLM:** OpenAI · Claude · LangChain · LlamaIndex · Deepgram · Groq</sub>
+
+<br>
+
+## Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Voice Coach AI](https://github.com/afwaansarfaraz/voice-coach-ai)**
+Real-time AI English communication coach — full duplex STT → LLM → TTS pipeline over WebSockets.
+`FastAPI` `Deepgram` `Groq` `Edge-TTS`
+
+</td>
+<td width="50%" valign="top">
+
+**Medical Image Disease Detection**
+Chest X-ray disease classifier with Grad-CAM explainability, benchmarked across ResNet50, DenseNet121, and EfficientNet-B0.
+`PyTorch` `OpenCV` `FastAPI` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**ZestOS**
+Restaurant POS platform for the India market — WhatsApp AI ordering agent, QR self-order, and loyalty system built in.
+`Full-Stack` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
+**[SMS Spam Detection](https://github.com/afwaansarfaraz/sms-spam-detection)**
+NLP-based spam classifier trained on message-level text features.
+`Scikit-learn` `NLP`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Activity
+
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=afwaansarfaraz&theme=chartreuse-dark&hide_border=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&hide_border=true&theme=github_dark&bg_color=0A0A0A&title_color=64748B&icon_color=64748B&text_color=E2E8F0" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=afwaansarfaraz&hide_border=true&theme=github-dark-blue&background=0A0A0A&stroke=0A0A0A&ring=64748B&fire=64748B&currStreakLabel=E2E8F0" />
 </div>
+
+<br>
+
+<div align="center">
+<sub>afwaansarfaraz7@gmail.com</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0A0A0A&height=3" />
