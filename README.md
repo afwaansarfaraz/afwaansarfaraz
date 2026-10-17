@@ -1,5 +1,4 @@
-(https://github.com/user-attachments/files/33601703/README.1.md)[Upl<p align="center">
-  <img src="assets/hero.svg" alt="Afwaan Sarfaraz. Building AI agents that investigate, explain, and stay under human control." width="100%">
+<img src="assets/hero.svg" alt="Afwaan Sarfaraz. Building AI agents that investigate, explain, and stay under human control." width="100%">
 </p>
 
 <p align="center">
