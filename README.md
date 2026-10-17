@@ -112,13 +112,6 @@ Also: [Retail Sales Dashboard](https://github.com/afwaansarfaraz/Retail-Sales-Da
 - **Torpedo Web**, co-founder: a web agency for the hospitality sector ([torpedoweb.org](https://torpedoweb.org)).
 - **Integral University, Lucknow:** B.Tech in Computer Science and Engineering, final year.
 
-## GitHub activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=afwaansarfaraz&show_icons=true&hide_border=true&bg_color=0B1226&title_color=2DE2D0&icon_color=8B5CF6&text_color=E6F1FF" alt="GitHub stats card for afwaansarfaraz">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afwaansarfaraz&layout=compact&hide_border=true&bg_color=0B1226&title_color=2DE2D0&text_color=E6F1FF" alt="Language mix across public repositories, by bytes of code">
-</p>
-
 <sub>Language mix reflects bytes of code in public repos, not skill.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%">
@@ -127,4 +120,3 @@ Also: [Retail Sales Dashboard](https://github.com/afwaansarfaraz/Retail-Sales-Da
 
 - LinkedIn: [linkedin.com/in/afwaan-sarfaraz](https://www.linkedin.com/in/afwaan-sarfaraz/)
 - Email: [afwaan.dev@gmail.com](mailto:afwaan.dev@gmail.com)
-oading README (1).md…]()
