@@ -126,5 +126,5 @@ Also: [Retail Sales Dashboard](https://github.com/afwaansarfaraz/Retail-Sales-Da
 ## Contact
 
 - LinkedIn: [linkedin.com/in/afwaan-sarfaraz](https://www.linkedin.com/in/afwaan-sarfaraz/)
-- Email: [afwaansarfaraz7@gmail.com](mailto:afwaansarfaraz7@gmail.com)
+- Email: [afwaan.dev@gmail.com](mailto:afwaan.dev@gmail.com)
 oading README (1).md…]()
