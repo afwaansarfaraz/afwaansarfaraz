@@ -1,6 +1,5 @@
 <img src="assets/hero.svg" alt="Afwaan Sarfaraz. Building AI agents that investigate, explain, and stay under human control." width="100%">
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/afwaan-sarfaraz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-afwaan--sarfaraz-0B1226?style=flat-square&logo=linkedin&logoColor=2DE2D0&labelColor=0B1226"></a>
   <a href="mailto:afwaansarfaraz7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-afwaansarfaraz7%40gmail.com-0B1226?style=flat-square&logo=gmail&logoColor=2DE2D0&labelColor=0B1226"></a>
